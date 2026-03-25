@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 
 # 🌌 Centrifugal Governance Hub
 [📊 Theory Wiki](https://centrifugalgovernance.org/wiki) | [🌩️ Live Storm Predictions](https://centrifugalgovernance.org/March-2026-Storm-Predictions) | 
