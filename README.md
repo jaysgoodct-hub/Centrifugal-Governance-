@@ -4,6 +4,9 @@
 [👨‍🔬 About the Researcher](https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaysgoodct-hub/Centrifugal-Governance-/blob/main/Centrifugal_Engine.ipynb)
+
+
 The Centrifugal Governance Model
 
 
