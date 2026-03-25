@@ -1,14 +1,7 @@
-![Centrifugal Governance Master Graph](governance_graph.png)
-
 
 # 🌌 Centrifugal Governance Hub
-[📊 Theory Wiki](
-https://centrifugalgovernance.org/wiki.md) |
-
-[🌩️ Live Storm Predictions](https://centrifugalgovernance.org/March-2026-Storm-Predictions)
-
-[👨‍🔬 About the Researcher](
-https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)
+[📊 Theory Wiki](https://centrifugalgovernance.org/wiki) | [🌩️ Live Storm Predictions](https://centrifugalgovernance.org/March-2026-Storm-Predictions) | 
+[👨‍🔬 About the Researcher](https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)
 
 
 The Centrifugal Governance Model
