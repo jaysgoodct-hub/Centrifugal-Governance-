@@ -1,4 +1,4 @@
-​🌌 The Centrifugal Governance Model
+The Centrifugal Governance Model
 
 
 ​A 27.6 Billion-Year Mechanical Alternative to Lambda-CDM
