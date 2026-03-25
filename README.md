@@ -1,4 +1,3 @@
-[PASTE THE MARKDOWN TEXT FROM ABOVE HERE]
 ​🌌 The Centrifugal Governance Model
 
 
