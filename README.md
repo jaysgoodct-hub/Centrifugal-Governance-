@@ -4,8 +4,9 @@
 # 🌌 Centrifugal Governance Hub
 [📊 Theory Wiki](
 https://centrifugalgovernance.org/wiki.md) |
-[🌩️ Live Storm Predictions](
-https://centrifugalgovernance.org/wiki/March-2026-Storm-Predictions.md) 
+
+[🌩️ Live Storm Predictions](https://centrifugalgovernance.org/March-2026-Storm-Predictions)
+
 [👨‍🔬 About the Researcher](
 https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)
 
