@@ -1,0 +1,7 @@
+body {
+  background-color: #050505;
+  background-image: radial-gradient(#1a1a1a 1px, transparent 1px);
+  background-size: 20px 20px; /* This adds a subtle "Grid" or "Star" effect */
+  color: white;
+  font-family: sans-serif;
+}
