@@ -9,7 +9,8 @@
 
 
 
-🍽️ ## 🛠️ Technical Calibration
+🍽️
+## 🛠️ Technical Calibration
 The Standard Model requires constant "Dark" adjustments. Centrifugal Governance provides the corrected recipe for orbital and cosmological data.
 
 <details>
