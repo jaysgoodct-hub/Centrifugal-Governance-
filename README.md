@@ -53,7 +53,7 @@ The Centrifugal Governance Model
 ​🔊 Acoustic Seeding (The 321 Rule)
 
 
-​The distribution of the 321 Major Galactic Clusters is not random. It is the result of Cymatic Governance—the "Sound" of the metallic transition (12\text{ MHz} at the laboratory scale) creating a Dodecahedral Nodal Grid.
+​The distribution of the 321 Major Galactic Clusters is not random. It is the result of Cymatic Governance—the "Sound" of the metallic transition (12\MHz} at the laboratory scale) creating a Dodecahedral Nodal Grid.
 
 
 
