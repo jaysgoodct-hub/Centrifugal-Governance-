@@ -136,8 +136,6 @@ The duration of the initial "Cold Start" ignition. It defines the universal peri
 Acoustic Seeding
 
 
-
-
 The process where 12 MHz harmonic vibrations during ignition created standing waves, organizing matter into the 321 clusters.
 
 
@@ -177,19 +175,17 @@ Cymatic Nodal Grid
 The "Soccer Ball" (Dodecahedron) pattern formed by acoustic waves that dictates exactly where galaxies can exist.
 
 
-
-
-
-
 Density Decay (3.46%)
-
-Contact@
-Jasonhultberg@chef.net 
-
-
-
+ 
 
 The current state of the universe, representing the natural expansion and cooling from the original 75% ignition density.
+
+Contact@
+Jasonhultberg@chef.net
+
+[Read the Contributing Guidelines](./CONTRIBUTING.md)
+
+
 
 
 
