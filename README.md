@@ -195,6 +195,10 @@ Jasonhultberg@chef.net
 [Read the Contributing Guidelines](./CONTRIBUTING.md)
 
 
+[![HitCount](https://hits.dwyl.com/jaysgoodct-hub/Centrifugal-Governance-.svg?style=flat-square)](http://hits.dwyl.com/jaysgoodct-hub/Centrifugal-Governance-)
+
+
+
 
 
 
