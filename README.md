@@ -209,6 +209,7 @@ Jasonhultberg@chef.net
 
 [![HitCount](https://hits.dwyl.com/jaysgoodct-hub/Centrifugal-Governance-.svg?style=flat-square)](http://hits.dwyl.com/jaysgoodct-hub/Centrifugal-Governance-)
 
+[📁 View Private Research Log](./LOG.md)
 
 
 
