@@ -169,7 +169,7 @@ The plasma and gas "left behind" during the initial pinch. This forms planetary 
 
 
 
-The primary geometric nodal points of the universe (300 \text{ hubs} + 20 \text{ arm anchors} + 1 \text{ core anchor}).
+The primary geometric nodal points of the universe (300 hubs + 20 arm anchors + 1 core anchor) **
 
 
 
