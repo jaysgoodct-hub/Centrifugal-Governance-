@@ -183,6 +183,9 @@ The "Soccer Ball" (Dodecahedron) pattern formed by acoustic waves that dictates 
 
 Density Decay (3.46%)
 
+Contact@
+Jasonhultberg@chef.net 
+
 
 
 
