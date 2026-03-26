@@ -12,6 +12,17 @@
 🍽️ ## 🛠️ Technical Calibration
 The Standard Model requires constant "Dark" adjustments. Centrifugal Governance provides the corrected recipe for orbital and cosmological data.
 
+<details>
+  <summary><b>🛰️ View Latest Mission Observations (JWST/Hubble/SpaceX)</b></summary>
+  <br>
+  <ul>
+    <li><b>Hubble Tension:</b> 3.46% Density Decay explains the expansion gap.</li>
+    <li><b>Solar Corona:</b> Confirmed Trailing Mass from Centrifugal Discharge.</li>
+    <li><b>JWST Galaxies:</b> 27.6 Billion-Year timeline accounts for mature clusters at Redshift z > 10.</li>
+  </ul>
+</details>
+
+
 
 
 
