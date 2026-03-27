@@ -1,12 +1,5 @@
-A replacement to the Big-Bang 
-
 # Centrifugal Governance: An Empirical Alternative to the Big Bang Theory
 ### Unified Cosmology Protocol | 72 RPM Rotational Governance | 27.6 Billion Year Model
-
----
-
-## 👨‍🔬 About the Researcher
-**Jason Hultberg** is an **Empirical Polymath** and professional **Chef** with a background in **CNC Operation** and **ISO Quality Control**. He utilizes his high-level ability to visualize complex mechanical systems to develop the **Centrifugal Governance** model—a mechanical alternative to Lambda-CDM.
 
 ---
 
@@ -28,14 +21,11 @@ The model utilizes the **Metallic Xenon Lattice** (forming at the **52.28 GPa** 
 
 ---
 
-## 🔬 Project Files (Direct)
+## 🔬 Project Files (Direct Access - NO DOWNLOAD)
 * 🌩️ [**Storm Predictions**](./March-2026-Storm-Predictions.md)
+* 🐍 [**Governance Proof (proof.py)**](https://github.com/jaysgoodct-hub/Centrifugal-Governance/blob/main/proof.py)
 * ✅ [**Menu of Corrections**](./Corrections.md)
 * 📖 [**Wiki Data**](./wiki.md)
-
-
-* 🐍 [**Governance Proof (proof.py)**](https://github.com/JasonHultberg/Centrifugal-Governance/blob/main/proof.py)
-
 
 ---
 
