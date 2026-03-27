@@ -26,10 +26,11 @@
 
 ---
 
-## 🔬 Project Files (View Code - NO DOWNLOAD)
-* 🌩️ [**View Storm Predictions**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/March-2026-Storm-Predictions.md)
-* 🐍 [**View Governance Proof (proof.py)**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/proof.py)
-* ✅ [**View Menu of Corrections**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/Corrections.md)
+## 🔬 Project Files (Direct Access - NO 404)
+* 🌩️ [**Storm Predictions**](March-2026-Storm-Predictions.md)
+* 🐍 [**Governance Proof (proof.py)**](proof.py)
+* ✅ [**Menu of Corrections**](Corrections.md)
+* 📖 [**Wiki Data**](wiki.md)
 
 ---
 
@@ -40,5 +41,3 @@
 
 ## 📊 Analytics
 <img src="https://hitwebcounter.com/counter/counter.php?page=8041041&style=0005&nbdigits=6&type=page&initCount=0" />
-
-© 2026 Jason Hultberg. All Rights Reserved.
