@@ -6,7 +6,11 @@
 
 ### Final Equation Solution (Q.E.D.)
 **Input Constants:** 72 RPM Centrifugal Governance | 1.3333 hr (1.4 hr) Cold Start  
-**Solved Output:** T_final = 27.6 Billion Years  
+**Solved Output:** T_final = 27.6 Billion Years 
+
+**The Unified Expansion Equation:**
+$$S(t) = \int_{1.3333}^{27.6 \times 10^9} (72 \text{ RPM} \cdot \Phi_{Xe}) \, dt$$
+
 
 **Logic Verification:** The integration of the 72 RPM constant over the 1.3333-hour phase change matches the 27.6 billion-year maturation required by JWST observations. This mechanically resolves the "Impossible Galaxy" glitch without Dark Energy.  
 
