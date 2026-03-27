@@ -1,3 +1,11 @@
+<div align="center">
+<table bgcolor="#000000"><tr><td>
+<h1 align="center"><font color="#00ffcc">🌌 CENTRIFUGAL GOVERNANCE HUB</font></h1>
+<h3 align="center"><font color="#00ffcc">HULTBERG-72RPM-QC-2026 | UNIFIED COSMOLOGY</font></h3>
+</td></tr></table>
+</div>
+
+
 # Centrifugal Governance: An Empirical Alternative to the Big Bang Theory
 ### Unified Cosmology Protocol | 72 RPM Rotational Governance | 27.6 Billion Year Model
 
