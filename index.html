@@ -3,45 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centrifugal Governance | Master Command</title>
+    <title>Centrifugal Governance | Master Dashboard</title>
     <style>
-        body { background-color: #000000; color: #ffffff; font-family: sans-serif; padding: 20px; }
-        .dashboard { max-width: 900px; margin: auto; border: 2px solid #00ffcc; padding: 30px; border-radius: 15px; background: #050505; }
-        h1, h2 { color: #00ffcc; text-align: center; text-transform: uppercase; letter-spacing: 2px; }
-        
+        body { background-color: #000000; color: #ffffff; font-family: sans-serif; padding: 20px; line-height: 1.6; }
+        .dashboard { max-width: 800px; margin: auto; border: 2px solid #00ffcc; padding: 30px; border-radius: 15px; background: #050505; box-shadow: 0 0 20px rgba(0,255,204,0.3); }
+        h1, h2 { color: #00ffcc; text-align: center; text-transform: uppercase; }
         .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 20px; }
         @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
-        
         .btn { 
             background: #111; color: #00ffcc; padding: 15px; text-decoration: none; 
             border: 1px solid #333; border-radius: 8px; font-weight: bold; 
-            border-left: 4px solid #00ffcc; transition: 0.3s;
+            border-left: 5px solid #00ffcc; text-align: center;
         }
         .btn:hover { background: #00ffcc; color: #000; }
-        .python { border-left-color: #ffe873; color: #ffe873; } /* Distinct color for Python scripts */
+        .contact-box { margin-top: 30px; padding: 20px; border: 1px dashed #444; text-align: center; background: #0a0a0a; }
+        .email-text { color: #00ffcc; font-size: 1.2em; font-weight: bold; }
     </style>
 </head>
 <body>
     <div class="dashboard">
         <h1>🌌 Centrifugal Governance Hub</h1>
-        <p style="text-align:center;">HULTBERG-72RPM-QC-2026 | 27.6 Billion Year Timeline</p>
+        <p style="text-align:center;">HULTBERG-72RPM-QC-2026 Protocol</p>
 
-        <h2>📂 Project Navigation & Assets</h2>
         <div class="grid">
-            <a href="README.md" class="btn">🔬 Technical Equations (README)</a>
-            <a href="About.md" class="btn">👤 About the Author / Theory</a>
-            <a href="Corrections.md" class="btn">✅ Full Menu of Corrections</a>
-
-            <a href="March-2026-Storm-Predictions.md" class="btn">🌩️ March 2026 Storm Predictions</a>
-            <a href="LOG.md" class="btn">📝 Project Audit Logs</a>
-
-            <a href="scripts/" class="btn python">🐍 Browse Python Code Library</a>
-            <a href="main.py" class="btn python">⚙️ Core Governance Script (.py)</a>
-            
-            <a href="./" class="btn" style="grid-column: 1 / -1; border-left-color: #ff3333; color: #ff3333;">🗄️ View Raw Repository (All Hidden Files)</a>
+            <a href="About.md" class="btn">👤 ABOUT THE THEORY</a>
+            <a href="README.md" class="btn">🔬 TECHNICAL EQUATIONS</a>
+            <a href="March-2026-Storm-Predictions.md" class="btn">🌩️ STORM PREDICTIONS</a>
+            <a href="Corrections.md" class="btn">✅ MENU OF CORRECTIONS</a>
+            <a href="main.py" class="btn" style="border-left-color: #ffe873;">🐍 PYTHON CORE SCRIPT</a>
+            <a href="./" class="btn" style="border-left-color: #ff3333;">🗄️ BROWSE ALL REPOSITORY FILES</a>
         </div>
 
-        <div style="margin-top:30px; text-align:center;">
+        <div class="contact-box">
+            <h3>📬 CONTACT THE EMPIRICAL POLYMATH</h3>
+            <p>For inquiries regarding Centrifugal Governance and the 27.6BY timeline:</p>
+            <p class="email-text">hultbergjason@gmail.com</p>
+        </div>
+
+        <div style="margin-top:20px;">
             <audio controls loop style="filter: invert(1); width: 100%;">
                 <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
             </audio>
