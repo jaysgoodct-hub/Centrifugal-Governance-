@@ -1,7 +1,3 @@
-<body bgcolor="#000000">
-
-
-
 # Centrifugal Governance: An Empirical Alternative to the Big Bang Theory
 ### Unified Cosmology Protocol | 72 RPM Rotational Governance | 27.6 Billion Year Model
 
