@@ -30,9 +30,11 @@ The model utilizes the **Metallic Xenon Lattice** (forming at the **52.28 GPa** 
 
 ## 🔬 Project Files (Direct)
 * 🌩️ [**Storm Predictions**](./March-2026-Storm-Predictions.md)
-* 🐍 [**Governance Proof (proof.py)**](./proof.py)
 * ✅ [**Menu of Corrections**](./Corrections.md)
 * 📖 [**Wiki Data**](./wiki.md)
+
+* 🐍 [**Governance Proof (proof.py)**](https://github.com/JasonHultberg/Centrifugal-Governance/blob/main/proof.py)
+
 
 ---
 
