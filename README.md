@@ -1,5 +1,5 @@
+<div style="background-color: black; color: #00ffcc; min-height: 100vh; padding: 20px;">
 
-<img src="https://via.placeholder.com/1920x1080/000000/000000" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: -1;">
 
 <div align="center"><img src="https://via.placeholder.com/1000x1000/000000/000000" style="position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:-1;"></div>
 
@@ -45,3 +45,5 @@
 <img src="https://hitwebcounter.com/counter/counter.php?page=8041041&style=0005&nbdigits=6&type=page&initCount=0" />
 
 © 2026 Jason Hultberg. All Rights Reserved.
+</div>
+
