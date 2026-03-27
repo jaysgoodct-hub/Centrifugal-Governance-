@@ -33,6 +33,7 @@ The model utilizes the **Metallic Xenon Lattice** (forming at the **52.28 GPa** 
 * ✅ [**Menu of Corrections**](./Corrections.md)
 * 📖 [**Wiki Data**](./wiki.md)
 
+
 * 🐍 [**Governance Proof (proof.py)**](https://github.com/JasonHultberg/Centrifugal-Governance/blob/main/proof.py)
 
 
