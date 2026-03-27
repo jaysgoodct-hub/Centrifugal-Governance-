@@ -2,7 +2,151 @@
 
 # 🌌 Centrifugal Governance Hub
 [📊 Theory Wiki](https://centrifugalgovernance.org/wiki) | [🌩️ Live Storm Predictions](https://centrifugalgovernance.org/March-2026-Storm-Predictions) | 
-[👨‍🔬 About the Researcher](https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)# 
+[👨‍🔬 About the Researcher](https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)
+# <style>
+  .report-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    border: 1px solid #444;
+    border-radius: 8px;
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    overflow: hidden;
+  }
+
+  .collapsible {
+    background-color: #2d2d2d;
+    color: #00ffcc;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-bottom: 1px solid #444;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .active, .collapsible:hover {
+    background-color: #3d3d3d;
+  }
+
+  .collapsible:after {
+    content: '\002B'; /* Plus sign */
+    font-size: 20px;
+    margin-left: 5px;
+  }
+
+  .active:after {
+    content: "\2212"; /* Minus sign */
+  }
+
+  .content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #1a1a1a;
+  }
+
+  .inner-report {
+    padding: 20px 0;
+    line-height: 1.6;
+  }
+
+  .qc-label {
+    color: #ff3333;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+  }
+
+  th, td {
+    border: 1px solid #444;
+    padding: 10px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #333;
+  }
+</style>
+
+<div class="report-container">
+  <button class="collapsible">QC DISCREPANCY REPORT #001: The Temperature Paradox</button>
+  <div class="content">
+    <div class="inner-report">
+      <p><span class="qc-label">Status:</span> Audit Failed</p>
+      <p>Standard solar models claim a 3,000,000°C Corona. However, metallurgical analysis of the Parker Solar Probe proves a <strong>Non-Convective Environment.</strong></p>
+      
+      [attachment_0](attachment)
+
+      <table>
+        <tr>
+          <th>Variable</th>
+          <th>Standard Model (Exaggerated)</th>
+          <th>Centrifugal Model (Observed)</th>
+        </tr>
+        <tr>
+          <td>Medium</td>
+          <td>Atmospheric Gas</td>
+          <td>Vacuum / Venting Field</td>
+        </tr>
+        <tr>
+          <td>Heat Type</td>
+          <td>Convective (Wraps around)</td>
+          <td>Radiant (Linear/Directional)</td>
+        </tr>
+        <tr>
+          <td>Thermal Result</td>
+          <td>Vaporization</td>
+          <td>85°F Shadow (Stable)</td>
+        </tr>
+      </table>
+      <p><em>"If the oven is 3 million degrees, there is no shade. The cold tail proves it's a vacuum engine, not a furnace."</em></p>
+    </div>
+  </div>
+
+  <button class="collapsible">QC DISCREPANCY REPORT #002: Spectral Gas Analysis</button>
+  <div class="content">
+    <div class="inner-report">
+      <p><span class="qc-label">Status:</span> Chemical Imbalance Detected</p>
+      <p>The 99% Hydrogen/Helium model cannot produce the High-Energy UV/X-Ray discharge observed. This requires <strong>Heavy Ion Friction</strong> (Xenon Mechanics).</p>
+      
+      [attachment_1](attachment)
+
+      <p>Acceleration of Xenon at 72 RPM provides the kinetic "punch" for UV waves that light gases simply cannot achieve in a lab setting.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+      } 
+    });
+  }
+</script>
+
 
 [👉 Click here to read the Full Menu of Corrections](./Corrections.md)
 
