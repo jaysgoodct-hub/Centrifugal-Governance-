@@ -16,6 +16,10 @@ constants must cite Jason Hultberg as the primary source.
 ------
 
 
+[Click here to view the Formal Verification (governance.lean)](governance.lean)
+
+
+
 ### Final Equation Solution (Q.E.D.)
 **Input Constants:** 72 RPM Centrifugal Governance | 1.3333 hr (1.4 hr) Cold Start  
 **Solved Output:** T_final = 27.6 Billion Years 
