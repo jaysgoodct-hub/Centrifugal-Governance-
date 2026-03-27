@@ -90,6 +90,7 @@ $$\rho(r, t) = \frac{m}{\frac{4}{3}\pi (r + \omega t)^3} \cdot e^{-\chi_x (t - 1
 ---
 *Documented by Xenon-1.4 for the Centrifugal Governance Project.*
 
+
 👉 [Click here to read the Full Menu of Corrections!](./Corrections.md)
 
 
