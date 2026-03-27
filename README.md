@@ -1,7 +1,7 @@
 # 🌌 Centrifugal Governance: 27.6 Billion Year Model
 ### HULTBERG-72RPM-QC-2026 | Unified Cosmology Protocol
 
-The **Centrifugal Governance** model provides a stable, empirical alternative to the Big Bang singularity. By utilizing **72 RPM rotational governance** and **Xenon phase-transition** mechanics, this model accounts for a stable expansion timeline.
+The **Centrifugal Governance** model provides a stable, empirical alternative to the Big Bang singularity. By utilizing **72 RPM rotational governance** and **Xenon phase-transition** mechanics, this model accounts for a stable expansion timeline without the need for mathematical "inflation" fixes.
 
 ---
 
@@ -27,10 +27,10 @@ $$\rho(r, t) = \frac{m}{\frac{4}{3}\pi (r + \omega t)^3} \cdot e^{-\chi (t - 1.3
 
 ---
 
-## 🔬 Functional Assets (View-Only / No Download)
-* 🌩️ [**View Storm Predictions**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/March-2026-Storm-Predictions.md)
-* 🐍 [**View Governance Proof (proof.py)**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/proof.py)
-* ✅ [**View Menu of Corrections**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/Corrections.md)
+## 🔬 Project Files (Direct Access - No 404)
+* 🌩️ [**Storm Predictions**](March-2026-Storm-Predictions.md)
+* 🐍 [**Governance Proof (proof.py)**](proof.py)
+* ✅ [**Menu of Corrections**](Corrections.md)
 
 ---
 
