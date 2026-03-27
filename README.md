@@ -27,15 +27,15 @@ The model accounts for the specific relationship between **Centrifugal Governanc
 
 ---
 
-## 🔬 Project Files (View Code - NO DOWNLOAD)
-* 🌩️ [**View Storm Predictions**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/March-2026-Storm-Predictions.md)
-* 🐍 [**View Governance Proof (proof.py)**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/proof.py)
-* ✅ [**View Menu of Corrections**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/Corrections.md)
+## 🔬 Project Files (Direct Access - NO DOWNLOAD)
+* 🌩️ [**Storm Predictions**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/March-2026-Storm-Predictions.md)
+* 🐍 [**Governance Proof (proof.py)**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/proof.py)
+* ✅ [**Menu of Corrections**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/Corrections.md)
 
 ---
 
 ## 📬 Contact Information
-**Email:** [jasonhultberg@chef.net](mailto:jasonhultberg@chef.net)
+**Jason Hultberg** | **Email:** [jasonhultberg@chef.net](mailto:jasonhultberg@chef.net)
 
 ---
 
