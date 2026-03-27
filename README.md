@@ -1,5 +1,25 @@
 <link rel="stylesheet" href="style.css">
 
+---
+
+### 🎧 **Project Audio: "The Demon Hunter" - Atmospheric Phase Shift**
+<div align="center">
+  <img src="https://img.shields.io/badge/AUDIO-PLAYING-00ffcc?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Audio Badge">
+  <br>
+  <p><i>Phase-Locked Ambient Frequency (72 RPM Resonance)</i></p>
+  
+  <audio controls loop style="width: 80%; filter: invert(100%) hue-rotate(180deg) brightness(1.5);">
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+> **Note:** This track is a royalty-free atmospheric resonance chosen to represent the **Centrifugal Displacement** sounds of the **Xenon lattice**. No copyright infringement intended.
+
+---
+
+
+
 # 🌌 Centrifugal Governance Hub
 [📊 Theory Wiki](https://centrifugalgovernance.org/wiki) | [🌩️ Live Storm Predictions](https://centrifugalgovernance.org/March-2026-Storm-Predictions) | 
 [👨‍🔬 About the Researcher](https://github.com/jaysgoodct-hub/About-.md./blob/main/README.md)
