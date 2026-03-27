@@ -11,7 +11,16 @@ The model utilizes the **Metallic Xenon Lattice** (forming at the **52.28 GPa** 
 * **Thermal Gradient (Moon to Mercury):** The 72 RPM governance explains the temperature delta from the **Moon (200°F)** to **Mercury (800°F)**. This is a conductive gradient through the metallic lattice.
 * **Light Spectrum Calibration:** Because the Xenon bulb spectrum matches the Solar spectrum, it confirms the universe is filled with a **Metallic Xenon Lattice**.
 
----
+---## 🛠️ Project Navigation & Validation
+Select a component below to audit the core logic of the Centrifugal Governance model:
+
+
+* **[proof.py (The Validator)](https://github.com/jaysgoodct-hub/Centrifugal-Governance-/blob/main/proof.py)** > *Live stability check for the 72 RPM governor and the 1.0 Stability Index.*
+* **[t.md (The Core Theory)](https://github.com/jaysgoodct-hub/Centrifugal-Governance-/blob/main/t.md)** > *The full technical breakdown: Why Centrifugal Governance replaces the Big Bang.*
+* **[vs_gpt.py (The Comparison)](https://github.com/jaysgoodct-hub/Centrifugal-Governance-/blob/main/vs_gpt.py)** > *A logic-gate analysis comparing predictive accuracy vs. traditional cosmology.*
+* **[cold_start.py (Harmonic Pulse)](https://github.com/jaysgoodct-hub/Centrifugal-Governance-/blob/main/cold_start.py)** > *The 1.3333-hr atmospheric venting and thermal lattice synchronization script.*
+
+
 
 ## ⚙️ Technical Calibration & Constants
 * **72 RPM Governor:** The fundamental rotational frequency.
