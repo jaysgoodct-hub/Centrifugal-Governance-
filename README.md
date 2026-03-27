@@ -29,8 +29,12 @@ $$\rho(r, t) = \frac{m}{\frac{4}{3}\pi (r + \omega t)^3} \cdot e^{-\chi (t - 1.3
 
 ---
 
-## 📬 Contact Information
-**Jason Hultberg** *Empirical Polymath | Theory of Everything* **Email:** [jasonhultberg@chef.net](mailto:jasonhultberg@chef.net)
+---
+## 📬 Contact & Analytics
+**Jason Hultberg** | [jasonhultberg@chef.net](mailto:jasonhultberg@chef.net)
+
+![Visitor Counter](https://hitwebcounter.com/counter/counter.php?page=centrifugalgovernance&style=0005&nbdigits=6&type=page&initCount=0)
+
 
 ---
 *Documented by Xenon-1.4 for the Centrifugal Governance Project.*
