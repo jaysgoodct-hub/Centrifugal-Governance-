@@ -27,7 +27,7 @@ $$\rho(r, t) = \frac{m}{\frac{4}{3}\pi (r + \omega t)^3} \cdot e^{-\chi (t - 1.3
 
 ---
 
-## 🔬 Project Files (Direct)
+## 🔬 Project Files (Direct Access - NO DOWNLOAD)
 * 🌩️ [**Storm Predictions**](March-2026-Storm-Predictions.md)
 * 🐍 [**Governance Proof (proof.py)**](proof.py)
 * ✅ [**Menu of Corrections**](Corrections.md)
