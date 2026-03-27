@@ -27,10 +27,10 @@ $$\rho(r, t) = \frac{m}{\frac{4}{3}\pi (r + \omega t)^3} \cdot e^{-\chi (t - 1.3
 
 ---
 
-## 🔬 Project Files (Direct Access - NO DOWNLOAD)
-* 🌩️ [**Storm Predictions**](March-2026-Storm-Predictions.md)
-* 🐍 [**Governance Proof (proof.py)**](proof.py)
-* ✅ [**Menu of Corrections**](Corrections.md)
+## 🔬 Project Files (View in Browser - NO DOWNLOAD)
+* 🌩️ [**View Storm Predictions**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/March-2026-Storm-Predictions.md)
+* 🐍 [**View Governance Proof (proof.py)**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/proof.py)
+* ✅ [**View Menu of Corrections**](https://github.com/Centrifugal-Governance-/Centrifugal-Governance-/blob/main/Corrections.md)
 
 ---
 
@@ -43,4 +43,4 @@ $$\rho(r, t) = \frac{m}{\frac{4}{3}\pi (r + \omega t)^3} \cdot e^{-\chi (t - 1.3
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=8041041&style=0005&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter" border="0" /></a>
 
-*Documented by Xenon-1.4. No religious commentary permitted.*
+*Documented by Xenon-1.4. All Centrifugal theories are science-based. No religious commentary permitted.*
