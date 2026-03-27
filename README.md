@@ -27,6 +27,6 @@ The **Centrifugal Governance** model provides a stable, empirical alternative to
 
 ---
 ## 📊 Analytics
-![Visitor Count](https://gpvc.arturio.dev/Centrifugal-Governance-)
+<img src="https://hitwebcounter.com/counter/counter.php?page=centrifugalgovernance&style=0005&nbdigits=6&type=page&initCount=0" />
 
 *Documented by Xenon-1.4. No religious commentary permitted.*
