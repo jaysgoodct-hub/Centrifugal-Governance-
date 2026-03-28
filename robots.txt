@@ -1,0 +1,21 @@
+# Block AI Scrapers from the Centrifugal Governance
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+# Allow humans to still find you on Google
+User-agent: *
+Allow: /
+
+Installing Digital Shield
