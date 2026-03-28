@@ -57,7 +57,43 @@ Timeline: 27.6 Billion Years
 ​/Core_Equations: The 72 RPM constant and Xenon phase-change math.
 ​/Stellar_Ignition: Proof of the Xenon "Spark Plug" vs. gravitational heat.
 ​/Timeline_Verification: Data supporting the 27.6 Billion-Year duration.
-​/Discarded_Theory: Archive of "Fantasy Physics" (Dark Matter, Curved Spacetime).
+​/Discarded_Theory: Archive of "Fantasy Physics" (Dark Matter, Curved Spacetime).​⚗️ 
+
+
+Core Equations: Centrifugal Governance
+​Framework: 72 RPM Mechanical Expansion
+Timeline: 27.6 Billion Years
+Pulsation Gear: 1.3333 Hours
+
+​1. The Pressure-Velocity Equation (Radial Push)
+
+​This defines the physical "push" of the universe at 72 RPM.
+P_c = p_Xe * (72 RPM)^2 * r
+​P_c = Centrifugal Pressure
+​p_Xe = Density of the Xenon Lattice
+​r = Radial distance (up to 27.6 Billion Light Years)
+
+​2. The 1.3333-Hour Pulsation Cycle
+​The "Timing Gear" for the 27.6 Billion-Year timeline.
+T_pulse = 1.3333 Hours (80 Minutes)
+​Every 80 minutes, the 72 RPM rotation hits a harmonic peak, triggering the Xenon phase change and the 1.4-hour calibrated mechanical rhythm.
+
+​3. The Xenon Phase-Change Matrix (The Spark Plug)
+​How stars ignite without "fantasy" gravity.
+Phi_Xe = METALLIC SOLID (If P_c is greater than or equal to P_critical)
+Phi_Xe = GAS (If P_c is less than P_critical)
+​Phi_Xe = The Phase State of Xenon
+​P_critical = The pressure threshold at the core of a star or planet.
+
+
+​4. The Mechanical Redshift (Energy Loss)
+​Why light turns red over a 27.6 Billion-Year journey.
+E_loss = (T_torque * d) / p_Xe
+​E_loss = Energy lost by the photon
+​T_torque = 72 RPM Rotational Resistance
+​d = Distance traveled through the Xenon Lattice
+
+
 
 
 [Click here to view the Formal Verification (governance.lean)](governance.lean)
